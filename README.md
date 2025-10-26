@@ -1,1 +1,1 @@
-# landing_page
+Este es el primer proyecto de Odin Project, el cual consiste en realizar una landing page con unos requisitos que ellos me dan.
